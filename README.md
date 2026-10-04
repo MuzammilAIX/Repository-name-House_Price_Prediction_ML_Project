@@ -77,14 +77,6 @@ The Streamlit application provides:
 * Model information
 * Interactive visualizations
 
-![Home Dashboard](images/01_home_dashboard.png)
-
-![Property Prediction](images/02_property_prediction.png)
-
-![Prediction Result](images/03_prediction_result.png)
-
-![Price Analysis](images/04_price_analysis.png)
-
 ## Technologies
 
 Python · Pandas · NumPy · Scikit-learn · Plotly · Streamlit
