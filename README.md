@@ -96,4 +96,4 @@ This project demonstrates an end-to-end Machine Learning workflow, from raw prop
 
 ## Author
 
-**Enginner Muzammil**
+**Muhammad Muzammal Hussain**
